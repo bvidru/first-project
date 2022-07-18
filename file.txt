@@ -1,0 +1,4 @@
+Primul fisire scris cu vim
+
+Este soare
+
